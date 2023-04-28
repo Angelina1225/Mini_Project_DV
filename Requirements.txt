@@ -1,0 +1,12 @@
+There are few packages that are needed to run the application and need to be installed in the R studio. 
+They are: ggplot2, dplyr, plotly, ggcorrplot, GGally, shinydashboard, caret.
+Commands to install the packages:
+	install.packages("ggplot2")
+	install.packages("dplyr")
+	install.packages("plotly")
+	install.packages("ggcorrplot")
+	install.packages("GGally")
+	install.packages("shinydashboard")
+	install.packages("caret").
+
+After installing the above packages, open the mini_project.R file in the R studio and run to view the application.
